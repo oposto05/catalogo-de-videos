@@ -2,3 +2,24 @@ body {
 color: white;
 background: black;
 }
+
+header {
+border-bottom: solid 2px rgb(42, 122, 228);
+padding: 20px;
+font-size: 32px;
+color: rgb(196, 5, 148);
+}
+
+.chamada {
+background: rgb(184, 156, 213);
+}
+.chamada-texto {
+    margin-right: 5%;
+}
+
+h1 {
+  font-size: 40px;
+}
+p {
+  font-size: 20px;
+}
