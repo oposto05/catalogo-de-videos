@@ -4,15 +4,21 @@ background: black;
 }
 
 header {
-border-bottom: solid 2px rgb(42, 122, 228);
+border-bottom: solid 2px rgb(163, 108, 68);
 padding: 20px;
 font-size: 32px;
-color: rgb(196, 5, 148);
+color: rgb(3, 5, 7);
+
 }
 
 .chamada {
-background: rgb(184, 156, 213);
+background: rgb(139, 16, 16);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
 }
+
 .chamada-texto {
     margin-right: 5%;
 }
